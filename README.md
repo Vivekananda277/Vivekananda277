@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vivekananda Reddy Dondla</h1>
 <h3 align="center">A passionate advocate for DevOps</h3>
 
-- 🔭 I’m currently pursuing Master's in Computer Science in University of Central Missouri 
+- 🔭 I’m pursuing Master's in Computer Science from University of Central Missouri 
 
 - 🌱 I’m currently learning **DevOps Tools**
 
