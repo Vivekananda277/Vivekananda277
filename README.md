@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Vivekananda Reddy Dondla</h1>
 <h3 align="center">A passionate advocate for DevOps</h3>
 
-- 🔭 I’m pursuing Master's in Computer Science from University of Central Missouri 
+- 🔭 Master's graduate in Computer Science from University of Central Missouri 
 
 - 🌱 I’m currently learning **DevOps Tools**
 
-- 📫 How to reach me **viveknanda7677@outlook.com**
+- 📫 How to reach me **vivekananda7677@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
