@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Vivekananda Reddy Dondla</h1>
 <h3 align="center">A passionate advocate for DevOps</h3>
 
