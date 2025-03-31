@@ -3,8 +3,6 @@
 
 - 🔭 Master's graduate in Computer Science from University of Central Missouri 
 
-- 🌱 I’m currently learning **DevOps Tools**
-
 - 📫 How to reach me **vivekananda7677@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
